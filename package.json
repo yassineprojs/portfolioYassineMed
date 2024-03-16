@@ -1,0 +1,43 @@
+{
+  "name": "securityportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-spring/three": "^9.7.3",
+    "@react-spring/web": "^9.7.3",
+    "@react-three/drei": "^9.92.7",
+    "@react-three/fiber": "^8.15.12",
+    "@react-three/postprocessing": "^2.15.12",
+    "gl-noise": "^1.6.1",
+    "lamina": "^1.1.23",
+    "leva": "^0.9.35",
+    "maath": "^0.10.7",
+    "postprocessing": "^6.34.1",
+    "r3f-perf": "^7.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "three": "^0.160.0",
+    "three-custom-shader-material": "^5.4.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
